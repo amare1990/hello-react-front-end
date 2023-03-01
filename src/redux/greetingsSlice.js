@@ -4,7 +4,7 @@ export const getRandomMessage = createAsyncThunk(
   'greetings/getRandomMessages',
   async () => {
     const response = await fetch('http://127.0.0.1:3000/api/greetings/random/message');
-    return response.json()
+    return response.json();
   },
 );
 
