@@ -104,16 +104,16 @@ To run the project, execute the following command:
 ## 🔭 Future Features <a name="future-features"></a>
 
 
-- [ ] **Add styles**
-- [ ] **Do our Fullstack capstone project with this setup**
-- [ ] **Add tests**
+-  **Add styles**
+-  **Do our Fullstack capstone project with this setup**
+-  **Add tests**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 ## 🤝 Contributing <a name="contributing"></a>
 
-Contributions, issues, and feature requests are welcome and I am happy to add your contribution here!
+Contributions, issues, and feature requests are welcome and I am happy if you add your contribution here!
 
 Feel free to check the [issues page](https://github.com/amare1990/hello-react-front-end/issues).
 
@@ -131,7 +131,7 @@ If you like this project, hit the star please.
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 
-I would like to thank Microverse that provide the necessary materials to help us get skills in the setting up of react front-end and rails back-end as two applications.
+I would like to thank Microverse that provides us the necessary materials to help us get skills in the setting up of react front-end and rails back-end as two applications.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
