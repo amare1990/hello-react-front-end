@@ -82,6 +82,7 @@ In your root directory of this repo,
 To run the project, execute the following command:
 
 - `cd my-folder`
+- `EXPORT port=xxxx (x is any number out of the reserved TCP/UDP protocols port number) if you use linux and run env:PORT=5000 if you use windows OS`
 - `npm start`
 
 
