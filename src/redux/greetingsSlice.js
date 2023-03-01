@@ -1,3 +1,4 @@
+//  eslint-disable-no-param-reassign
 import { createAsyncThunk, createSlice } from '@reduxjs/toolkit';
 
 export const getRandomMessage = createAsyncThunk(
@@ -22,7 +23,7 @@ const greetingsSlice = createSlice({
       state.message = action.payload.random_message;
       state.status = 'done';
     });
-    builder.addCase(getRandomMessage.pending, (state, action) => {
+    builder.addCase(getRandomMessage.pending, (state) => {
       state.status = 'loading';
     });
   },
