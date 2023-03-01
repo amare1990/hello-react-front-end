@@ -20,6 +20,9 @@
 
 **Hello-react-front-end** is a react-redux app that fetches messages from the  `  Hello-rails-back-end  ` app local server through REST API and displays the message. It is meant to exercise setting up the react front-end and connect to the rails-back-end app as two apps.
 
+##Back-end link##
+- [Rails back-end link](https://github.com/amare1990/hello-rails-back-end)
+
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
